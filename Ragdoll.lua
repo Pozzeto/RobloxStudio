@@ -23,3 +23,4 @@ game.Players.PlayerAdded:Connect(function(Player)
 end)
 
 -- when you die your body falls down just that, in the name of the script had a (fixing) dont know if it doesnt work but i tested it and it work
+serverscriptservice
